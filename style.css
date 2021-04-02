@@ -1,0 +1,22 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.menu ul li{
+
+display: inline-block;
+list-style: none;
+margin-left: 40px;
+
+}
+.menu ul {
+    text-align: center;         
+}
+.om {
+    font-family: 'Ballet', cursive;
+}
+.image img{
+    margin-top: 1rem;
+    height: 70vh;
+    width: 100%;
+}

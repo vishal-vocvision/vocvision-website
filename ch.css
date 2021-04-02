@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 30px 10% 0px;
+}
+.an {
+    list-style: none;
+}
+.an li {
+    display: inline-block;
+    padding: 0px 20px ;
+}
+.sub__name {
+    padding: 0px 0px 0px 10%;
+}
+.ro {
+    text-align: center;
+}
+h1{
+    font-weight: 100;
+}
+.vishal ul li{
+
+    display: inline-block;
+    list-style: none;
+    margin-top: 1rem;
+    margin-left: 10px;
+    border-right:1px solid black;
+    padding-right: 10px;
+    }
+    .vishal ul {
+        text-align: center;        
+    }
+.images img{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        margin-top: 2rem;
+  }
+  .vv {
+      text-align: center;
+  }
+  .vk {
+      margin-left: 21rem;
+  }
+  .vk h3:after{
+    content:'';
+    display:inline-block;
+    width:36%; height:100%;
+    margin-right:-100%;
+    border-bottom:1px solid #000;
+  }

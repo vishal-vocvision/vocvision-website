@@ -1,0 +1,195 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.landing {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    padding: 20px 10% 20px;
+}
+.landing{
+  overflow: hidden;
+  background-color:white;
+  position: fixed;
+  top: 0;
+  width: 80%;
+}
+.im{
+    display: flex;
+}
+.mmm {
+  height: 24px;
+  padding: 0px 5px 0px 0px;
+}
+.ab li:hover {
+border-bottom: 2px solid black;
+}
+.ab {
+    list-style: none;
+}
+.ab li {
+    display: inline-block;
+    padding: 0px 20px ;
+}
+.open-button {
+    background-color:purple;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    height: 40px;
+    width: 200px;
+    outline: none;
+  }
+  .open-button {border-radius: 0px 30px 30px 50px;}
+
+.vr .left-text-upper{
+    font-size: 52px;
+    font-weight: 250;
+    font-family: poppins;
+}
+.vr .left-text-down{
+    font-size: 52px;
+    font-weight: 500;
+    font-family: poppins;
+}
+.vr {
+    margin: 8rem 0px 0px 7rem;
+}
+.vf {
+    font-size: 14px;
+    font-weight: 200;
+    font-family: poppins;
+}
+.vf {
+    margin: 3rem 0px 0px 7rem;
+}
+.vvv .button {
+    border: none;
+    color: white;
+    padding: 3px 0px 0px 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    height: 40px;
+    width: 121px;
+  }
+  
+  .button1 {border-radius: 0px 30px 40px 50px;}
+  .button1 {background-color: blue;}
+
+  .vvv ul {
+    margin: 3rem -4rem 0px 7rem;
+}
+  .som .butto {
+    border: none;
+    color: white;
+    padding: 14px 0px 0px 19px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    margin: 4px 2px;
+    height: 43px;
+    width: 140px;
+    display: flex;
+  }
+  .button2 {border-radius: 25px;}
+  .button2 {background-color: white;}
+  
+  
+
+  .som ul {
+    margin: 3rem 0px 0px 7rem;
+  }
+
+  .lottie__image{
+    float: right;
+    height: 45%;
+    width: 45%;
+    margin: -27% 0% 0% 0%;
+    position: relative;
+    z-index: -1;
+  }
+  #play_button{
+    padding: 0px 7px 0px 0px;
+    height: 18px;
+  }
+  #clay_button{
+    padding: 0px 0px 0px 8px;
+  }
+  .heading__button{
+    display: flex;
+  }
+  .line{
+    margin-left: 7rem;
+    margin-top: 7rem;
+  }
+  .line h1 {
+    overflow: hidden;
+    text-align:left;
+  }
+  
+  .line h1:after {
+    background-color: blue;
+    content: "";
+    display: inline-block;
+    height: 2px;
+    position: relative;
+    vertical-align: middle;
+    width: 2%;
+  }
+  
+  .line h1:after {
+    left: 0.2em;
+    margin-right: -50%;
+  }
+  /*
+  .page {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-left: 9rem;
+    margin-top: 8rem;
+}
+.page {
+  list-style: none;
+}
+.page li {
+  display: inline-block;
+  padding: 0px 20px ;
+}
+
+#lay_button{
+  padding: 0px 140px 10px 30px;
+  height: 50px;
+}
+.age {
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+  margin-left: 6.5rem;
+  margin-top: 8rem;
+}
+.age {
+  list-style: none;
+}
+.age li {
+  display: inline-block;
+  padding: 0px 20px ;
+}
+.page h3{
+  font-weight: 100;
+}
+.age h3{
+  font-weight: 100;
+  padding-left: 18px;
+  margin-bottom: 7rem;
+}
+*/
+
